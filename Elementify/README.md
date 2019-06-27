@@ -5,17 +5,19 @@ At the time of writing there are `118` elements in the Periodic Table, hence to 
 <br>
 ## To Run:
 To elementify your name open terminal and run the file<br>
-$```python run.py```
+`$` ```python run.py```
 <br><br>
 You can also pass the arguments in the terminal like<br>
-$``` python run.py --name Vibhor```
+`$` `python run.py --name Vibhor`
      <br>
-     ```V I B Ho R```
+> `V I B Ho R`
 
-
-<br><br>
-If you need to print Atomic Number too you can use -m or --more<br>
-$```python run.py --name 'Breaking bad' -m```<br>
-```Br E A K In G Ba D ```<br>
-```[35, 125, 124, 19, 49, 119, 56, 123]```
+<br>
+If you need to print Atomic Number too you can use -m or --more
+<br>
+`$` `python run.py --name 'Breaking bad' -m`
+<br>
+> `Br E A K In G Ba D ` 
+  <br>
+> `[35, 125, 124, 19, 49, 119, 56, 123]`
 
