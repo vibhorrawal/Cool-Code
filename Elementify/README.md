@@ -10,5 +10,5 @@ To elementify your name open terminal and run the file<br>
 You can also pass the arguments in the terminal like<br>
 ```python run.py --name Vibhor```
 <br><br>
-If you need to print their Atomic Number you can use -m or --more<br>
+If you need to print their Atomic Number also you can use -m or --more<br>
 ```python run.py -m```
