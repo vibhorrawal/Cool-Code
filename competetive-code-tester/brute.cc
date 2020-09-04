@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 #define ll long long int
-#define v1d  vector<int>
+#define vi  vector<int>
 #define v2d  vector<vector<int> >
 #define M 1e9+7
 #define T() int tc;cin>>tc;while(tc--)
@@ -20,8 +20,6 @@ void clr(){
 
 int32_t main(int argc, char const *argv[]){
   clr();
-  int n;
-  cin>>n;
-  cout << n << endl;
+
   return 0;
 }
